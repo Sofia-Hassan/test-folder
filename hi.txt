@@ -1,1 +1,5 @@
-Hellow world !
+Hellow world ! 
+
+To enter multiline commit message
+In your terminal, just hit 'enter' for a new line. The commit message won't end until you add the closing quote. 
+The git log will look like: ...
